@@ -1,0 +1,6 @@
+{
+    "username": "test",
+    "password": "test",
+    "port": 6800,
+    "target": "http://www.yahoo.com"
+}
